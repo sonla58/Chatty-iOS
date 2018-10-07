@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.7.3)
+  - EVReflection (5.7.0):
+    - EVReflection/Core (= 5.7.0)
+  - EVReflection/Core (5.7.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - Hero (1.3.1)
+  - IBAnimatable (5.2.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - Kingfisher (4.10.0)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxGesture (2.0.0):
+    - RxCocoa (~> 4.3.1)
+    - RxSwift (~> 4.3.1)
+  - RxSwift (4.3.1)
+  - SnapKit (4.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftDate (5.0.9)
+
+DEPENDENCIES:
+  - Alamofire
+  - EVReflection
+  - GoogleMaps
+  - Hero
+  - IBAnimatable
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - NVActivityIndicatorView
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SnapKit
+  - SVProgressHUD
+  - SwiftDate
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  EVReflection: c579d225cf0ec062d80f35f5af82acd770016a76
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  Hero: 1c3c625ba05856f305d29f5c270f8766c5ff2df7
+  IBAnimatable: 9e41a929529ba10548c99d3fe2db60e6272fc06d
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxGesture: b329dd74ea8d607b176484063e728d6db06c6d59
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftDate: 52b718d32ec006861a2be2756cbfa482d438e781
+
+PODFILE CHECKSUM: 6bee46d2f3a5cce6a5072390a1bbf92191e30e29
+
+COCOAPODS: 1.4.0
